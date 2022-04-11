@@ -2,7 +2,7 @@
    ![crown-312734_1280](https://user-images.githubusercontent.com/97457934/161875670-d412d1e6-71af-4e70-a3a1-65ce3db5a4de.JPG)
 
 ## Problem
-A program that will provide text either from the Bible or URL links containing information pertaining to relational/civil advice between people of the black community.
+A program that will provide text either from the Bible or URL links containing information pertaining to relational/civil advice between people of the black community in the scriptures.
 
 In the black community, there are too many instances of problems involving the households and environments of black children: ”Baby Mama/Daddy” Drama, Divorce, Single parent households, murder, thievery, drug abuse, etc... We need to come to terms with this issue and realize that we have not applied the solution to the problem.
 
