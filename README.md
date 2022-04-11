@@ -4,7 +4,7 @@
 ## Problem
 A program that will provide text either from the Bible or URL links containing information pertaining to relational/civil advice between people of the black community.
 
-In the black community, there are too many instances of problems involving the households and environments of black children: ”Baby Mama/Daddy” Drama, Divorce, Single parent households, murder, thievary, drug abuse, etc... We need to come to terms with this issue and realize that we have not applied the solution to the problem.
+In the black community, there are too many instances of problems involving the households and environments of black children: ”Baby Mama/Daddy” Drama, Divorce, Single parent households, murder, thievery, drug abuse, etc... We need to come to terms with this issue and realize that we have not applied the solution to the problem.
 
 ## Resources
 https://voxeu.org/article/incarceration-unemployment-and-black-white-marriage-gap-us
