@@ -21,4 +21,3 @@ https://www.aaihs.org/slave-and-free-black-marriage-in-the-nineteenth-century/
 <img width="508" alt="image" src="https://user-images.githubusercontent.com/97457934/162660110-e207087d-d3d6-469f-a0f8-6a863ca33092.png">
 
 My solution for this problem is to inform about what the scriptures in the Bible say concerning marriage and relationships, considering the fact that approximately 80% of the ’black’ community profess themselves as Christians. 
-<img width="1364" alt="image" src="https://user-images.githubusercontent.com/97457934/162660177-c9fb5623-8382-4bc7-860f-f1541f260ed9.png">
