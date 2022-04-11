@@ -1,10 +1,12 @@
 # CSC-119-Project
 ![crown-312734_1280](https://user-images.githubusercontent.com/97457934/161875670-d412d1e6-71af-4e70-a3a1-65ce3db5a4de.JPG)
 
+## Problem
 A program that will provide text either from the Bible or URL links containing information pertaining to relational/civil advice between people of the black community.
 
 In the black community, there are too many instances of problems involving the households and environments of black children: ”Baby Mama/Daddy” Drama, Divorce, Single parent households, murder, thievary, drug abuse, etc... We need to come to terms with this issue and realize that we have not applied the solution to the problem.
 
+## Resources
 https://voxeu.org/article/incarceration-unemployment-and-black-white-marriage-gap-us
 <img width="555" alt="image" src="https://user-images.githubusercontent.com/97457934/162659057-a4a74275-f441-4df8-8a1a-f3037375574e.png">
 
@@ -20,4 +22,5 @@ https://www.npr.org/2011/03/24/134827591/promoting-marriage-in-the-black-communi
 https://www.aaihs.org/slave-and-free-black-marriage-in-the-nineteenth-century/
 <img width="508" alt="image" src="https://user-images.githubusercontent.com/97457934/162660110-e207087d-d3d6-469f-a0f8-6a863ca33092.png">
 
+## Solution
 My solution for this problem is to inform about what the scriptures in the Bible say concerning marriage and relationships, considering the fact that approximately 80% of the ’black’ community profess themselves as Christians. 
