@@ -7,8 +7,8 @@ A program that will provide text either from the Bible or URL links containing i
 In the black community, there are too many instances of problems involving the households and environments of black children: ”Baby Mama/Daddy” Drama, Divorce, Single parent households, murder, thievary, drug abuse, etc... We need to come to terms with this issue and realize that we have not applied the solution to the problem.
 
 ## Resources
-https://voxeu.org/article/incarceration-unemployment-and-black-white-marriage-gap-us
-<img width="555" alt="image" src="https://user-images.githubusercontent.com/97457934/162659057-a4a74275-f441-4df8-8a1a-f3037375574e.png">
+
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/97457934/162659057-a4a74275-f441-4df8-8a1a-f3037375574e.png"> https://voxeu.org/article/incarceration-unemployment-and-black-white-marriage-gap-us
 
 https://scholars.org/brief/why-has-marriage-declined-among-black-americans
 <img width="496" alt="image" src="https://user-images.githubusercontent.com/97457934/162659605-ace550f1-1f4c-4215-8935-a5a61a0e1424.png">
